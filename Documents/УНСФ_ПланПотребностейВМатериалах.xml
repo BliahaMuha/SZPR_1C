@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="62f4e387-831a-48bb-835b-dfa5fe37a86d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УНСФ_ПланПотребностейВМатериалах" category="Object">
+				<xr:TypeId>c3e71d19-073b-4f0c-93aa-7b2a0bc3da4a</xr:TypeId>
+				<xr:ValueId>f3737652-98a0-4f9f-9810-a296f3102415</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УНСФ_ПланПотребностейВМатериалах" category="Ref">
+				<xr:TypeId>2e619de1-9eab-42d3-aa08-f1b695ad4670</xr:TypeId>
+				<xr:ValueId>20de7613-481f-43b0-8b60-9b9b9a38e8dd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УНСФ_ПланПотребностейВМатериалах" category="Selection">
+				<xr:TypeId>e31336db-0543-4316-be20-25f866470ffe</xr:TypeId>
+				<xr:ValueId>c4618e11-1d85-4c1b-a16a-2df19722dccb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УНСФ_ПланПотребностейВМатериалах" category="List">
+				<xr:TypeId>1daf58a2-e9bc-4b71-8c9f-115ee614a936</xr:TypeId>
+				<xr:ValueId>c0fa8f2a-d931-4558-acbf-0446ed357cd1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УНСФ_ПланПотребностейВМатериалах" category="Manager">
+				<xr:TypeId>34f253d4-1cb4-4e0d-932d-2e40ca34da49</xr:TypeId>
+				<xr:ValueId>a0e74864-06d4-494a-a587-5cc25fd5f5e2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УНСФ_ПланПотребностейВМатериалах</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a485b7ce-c3e2-43ce-9947-15bcef73dc48</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="8ca33b3b-2a59-4a7d-abb6-263a3df6358c">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ОбъектСтроительства</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>27c28c8c-8a8c-4071-9c7a-d14f38155c37</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.УНСФ_ОбъектыСтроительства</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Form>ФормаДокумента</Form>
+			<Form>ФормаСписка</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

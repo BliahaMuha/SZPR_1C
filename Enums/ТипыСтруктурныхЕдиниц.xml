@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Enum uuid="b1a58706-d0b0-4091-9667-e7d2560e763e">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ТипыСтруктурныхЕдиниц" category="Ref">
+				<xr:TypeId>1760c58d-45d5-4c75-ba72-0f3228c7cf61</xr:TypeId>
+				<xr:ValueId>66fd6813-a2aa-4f19-9af2-2c9f7d76a724</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ТипыСтруктурныхЕдиниц" category="Manager">
+				<xr:TypeId>63cc45ba-f6a8-408b-b8d4-709bab81aa56</xr:TypeId>
+				<xr:ValueId>4b2ce412-74b9-4974-9b0d-843e946ff0ec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ТипыСтруктурныхЕдиниц" category="List">
+				<xr:TypeId>95bb8715-351b-4a1f-9bc3-e961b1d7c14f</xr:TypeId>
+				<xr:ValueId>ecfb6704-fe8b-49c1-a351-8dbc29322042</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТипыСтруктурныхЕдиниц</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b4fd140b-4f87-4d31-b394-ba3eeae7026c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="845c7bcf-6ac0-44ff-969f-12673623f9d4">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Склад</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>86426cf8-824c-479b-96ad-7dc1a16c73ba</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="b806918c-ca67-4403-b5ce-5262731f25e6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УНСФ_ОбъектыСтроительства" category="Object">
+				<xr:TypeId>efbcd7ee-3408-4a35-8f5a-00860c047640</xr:TypeId>
+				<xr:ValueId>8f2cd083-46ae-4307-b725-a76d428c6a54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УНСФ_ОбъектыСтроительства" category="Ref">
+				<xr:TypeId>87cedfd0-0d64-46f0-9c6e-e84942e7102f</xr:TypeId>
+				<xr:ValueId>75928bff-9df7-4260-a2d4-d4c44b42ae3a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УНСФ_ОбъектыСтроительства" category="Selection">
+				<xr:TypeId>7df2383c-2eb6-4f5b-ae44-16a2af7773ca</xr:TypeId>
+				<xr:ValueId>6657ea5e-294c-4a8b-a234-57b6fde8ee51</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УНСФ_ОбъектыСтроительства" category="List">
+				<xr:TypeId>4943a99f-d9ea-4333-afdb-be57f7e58869</xr:TypeId>
+				<xr:ValueId>ddfd885e-1c89-4943-90de-402da221b4c3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УНСФ_ОбъектыСтроительства" category="Manager">
+				<xr:TypeId>ca279582-7261-41ea-96b3-7ab4d2291853</xr:TypeId>
+				<xr:ValueId>4b66ae58-21da-4f68-8e56-e28dff28143a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УНСФ_ОбъектыСтроительства</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7bbd76af-697b-4b9f-be9e-c417de37a1b6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="b5a1a701-a371-41f9-a67b-edb2af7f5e5c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УНСФ_СтроительныеРаботы" category="Object">
+				<xr:TypeId>67d66023-dd63-462f-af33-f9a1dd3d9627</xr:TypeId>
+				<xr:ValueId>94845274-1892-49b1-809e-6fcaafb3eca9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УНСФ_СтроительныеРаботы" category="Ref">
+				<xr:TypeId>55719531-f7fd-4932-91bc-479710cf82d7</xr:TypeId>
+				<xr:ValueId>0df0fc29-8370-4c50-86d2-bff77a6b5ce5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УНСФ_СтроительныеРаботы" category="Selection">
+				<xr:TypeId>b8fef97e-254f-4fe9-9db3-ff51e2809aec</xr:TypeId>
+				<xr:ValueId>ddfc22ab-4560-4e81-885a-6631a1bda353</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УНСФ_СтроительныеРаботы" category="List">
+				<xr:TypeId>e66e4d42-ca9c-4585-8a69-147b251b1e9b</xr:TypeId>
+				<xr:ValueId>2d00b11a-0b18-45b6-9b33-32bc60b94243</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УНСФ_СтроительныеРаботы" category="Manager">
+				<xr:TypeId>a80d1b69-91f6-44ce-b22f-a87f672da275</xr:TypeId>
+				<xr:ValueId>b2fab043-b273-4f25-aa19-f01ec3671d18</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УНСФ_СтроительныеРаботы</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7b135d53-4cdb-4aaf-acee-cff49a636747</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

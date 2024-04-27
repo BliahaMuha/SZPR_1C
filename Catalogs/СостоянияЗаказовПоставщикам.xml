@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="d15d23ab-d058-4bb3-9f74-449e27ad5584">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СостоянияЗаказовПоставщикам" category="Object">
+				<xr:TypeId>99615d6f-9a5d-4357-9340-42795be7702c</xr:TypeId>
+				<xr:ValueId>358ede65-b312-41ae-827a-f6d4fde38dd9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СостоянияЗаказовПоставщикам" category="Ref">
+				<xr:TypeId>d5730c64-92e3-414c-88d2-6bcc8b523f30</xr:TypeId>
+				<xr:ValueId>022f484b-5354-437f-a861-d96a5c96f6e8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СостоянияЗаказовПоставщикам" category="Selection">
+				<xr:TypeId>3a0e553e-626a-4907-baf3-c75015dae0d9</xr:TypeId>
+				<xr:ValueId>ecd9f640-1f55-43c9-9df1-8a6d3fdaa3d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СостоянияЗаказовПоставщикам" category="List">
+				<xr:TypeId>1b61e86b-9f2f-4b75-b405-4ba894056964</xr:TypeId>
+				<xr:ValueId>37fd56f6-c9eb-4ecc-b904-b440ac1b6230</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СостоянияЗаказовПоставщикам" category="Manager">
+				<xr:TypeId>f13723ee-a057-4320-8064-4f9ec1b3b3b1</xr:TypeId>
+				<xr:ValueId>bcdd85c1-afeb-42a0-aa7c-e51ded9684e7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СостоянияЗаказовПоставщикам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>657f3a45-dced-4278-8cfb-c2c86471b043</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

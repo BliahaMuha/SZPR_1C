@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Enum uuid="5d436332-296f-45e3-9978-4cfab18aa143">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыОперацийЗаказПоставщику" category="Ref">
+				<xr:TypeId>6641fdab-8aa9-4760-98c0-7e180eecc1c5</xr:TypeId>
+				<xr:ValueId>06e5ba33-caab-4095-8ed7-05e3070dc126</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыОперацийЗаказПоставщику" category="Manager">
+				<xr:TypeId>1a62451c-1610-4b50-af0c-58970d6a732d</xr:TypeId>
+				<xr:ValueId>d4b0b750-cf7f-4ba6-bbfe-c3edf69cbf02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыОперацийЗаказПоставщику" category="List">
+				<xr:TypeId>c7083da4-4d4a-4993-a85a-b09aacaaa92b</xr:TypeId>
+				<xr:ValueId>e76c4006-e948-4568-b349-2bdcbae7c91d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыОперацийЗаказПоставщику</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>195594a6-bc92-4279-99a7-226a9e295650</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="86efd386-e7bb-4c1b-89ed-069ab8794158">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ЗаказНаЗакупку</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>9268666f-650c-4011-b6f7-e0c79daf9b7a</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
